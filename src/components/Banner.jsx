@@ -1,6 +1,7 @@
 import React from "react";
 import Zenix from "../assets/zenix 1.png";
 import { Link } from "react-router-dom";
+
 export default function Banner() {
   return (
     <section id="banner" className="bg-red">
